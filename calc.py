@@ -1,8 +1,10 @@
 def add(x,y):
-    x+y
+    pass
 def subtract(x,y):
-    x-y
+    pass
 def multiply(x,y):
-    x*y
-def divide(x/y)
-    x/y
+    pass
+def divide(x,y):
+    pass
+def square(x,y):
+    pass
